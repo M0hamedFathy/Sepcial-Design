@@ -344,6 +344,10 @@ body {
     padding: 30px;
 }
 
+.about-us .info-box img{
+    width:100%;
+}
+
 @media (max-width: 767px) {
     .about-us .info-box {
         padding: 0;
